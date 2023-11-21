@@ -1,0 +1,10 @@
+{
+    "name": "mikepalikhov/complex-array-arguments",
+    "version": "1.0.0",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mikepalikhov/complex-array-arguments.git"
+        }
+    ]
+}
