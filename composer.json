@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "repositories": [
         {
-            "type": "vcs",
+            "type": "git",
             "url": "https://github.com/mikepalikhov/complex-array-arguments.git"
         }
     ]
