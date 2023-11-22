@@ -2,6 +2,12 @@
     "name": "mikepalikhov/complex-array-arguments",
     "version": "1.0.0",
     "type": "library",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mikepalikhov/complex-array-arguments"
+        }
+    ],
     "autoload": {
         "psr-4": { "MikePal\\": "src/" }
     }
