@@ -6,7 +6,7 @@ class ArrArgs {
     function __construct() {
     }
 
-    static public HandleArgs($args) {
+    static public function HandleArgs($args) {
         echo("Handled !!!<br>");
         print_r($args);
     }
