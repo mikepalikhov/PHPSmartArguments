@@ -1,5 +1,5 @@
 {
-    "name": "mikepalikhov/complex-array-arguments",
+    "name": "mikepalikhov/array-arguments",
     "type": "library",
     "autoload": {
         "psr-4": { "MikePal\\": "src/" }
