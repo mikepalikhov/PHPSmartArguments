@@ -1,6 +1,12 @@
-namespace MP;
+<?php
+
+namespace MikePal;
 
 class ArrArgs {
-    public function exec() {
+    function __construct() {
+    }
+
+    static public HandleArgs($args) {
+        
     }
 }
