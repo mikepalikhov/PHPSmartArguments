@@ -1,12 +1,6 @@
 {
     "name": "mikepalikhov/complex-array-arguments",
     "version": "1.0.0",
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://github.com/mikepalikhov/complex-array-arguments.git"
-        }
-    ],
     "autoload": {
         "psr-4": { "MikePal\\": "src/" }
     }
