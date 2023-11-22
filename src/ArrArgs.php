@@ -7,6 +7,7 @@ class ArrArgs {
     }
 
     static public HandleArgs($args) {
-        
+        echo("Handled !!!<br>");
+        print_r($args);
     }
 }
