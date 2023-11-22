@@ -1,6 +1,5 @@
 {
     "name": "mikepalikhov/complex-array-arguments",
-    "version": "1.0.0",
     "type": "library",
     "autoload": {
         "psr-4": { "MikePal\\": "src/" }
