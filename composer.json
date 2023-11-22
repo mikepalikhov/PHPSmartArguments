@@ -8,6 +8,6 @@
         }
     ],
     "autoload": {
-        "psr-4": { "MP\\": "src/" }
+        "psr-4": { "MikePal\\": "src/" }
     }
 }
