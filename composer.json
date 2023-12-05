@@ -1,6 +1,8 @@
 {
     "name": "mikepalikhov/array-arguments",
+    "version": "1.0.0",
     "type": "library",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": { "MikePal\\": "src/" }
     }
