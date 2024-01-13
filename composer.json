@@ -1,6 +1,7 @@
 {
     "name": "mikepalikhov/array-arguments",
     "type": "library",
+    "license": "proprietary",
     "autoload": {
         "psr-4": { "MikePal\\": "src/" }
     }
