@@ -1,5 +1,13 @@
 {
     "name": "mikepalikhov/array-arguments",
+    "description": "PHP Library simplifying use of complex functions with many arguments",
+    "authors": [
+        {
+            "name": "Mikhail Palikhov",
+            "email": "mihinator2@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "type": "library",
     "license": "proprietary",
     "autoload": {
