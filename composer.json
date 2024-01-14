@@ -10,6 +10,11 @@
     ],
     "type": "library",
     "license": "proprietary",
+    "config": {
+        "platform": {
+            "php": "5.3"
+        }
+    },
     "autoload": {
         "psr-4": { "MikePal\\": "src/" }
     }
